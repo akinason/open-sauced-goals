@@ -1,13 +1,13 @@
 [
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 24429,
-    "open_issues_count": 758,
+    "stargazers_count": 24432,
+    "open_issues_count": 760,
     "forks_count": 4307
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 6972,
+    "stargazers_count": 6973,
     "open_issues_count": 55,
     "forks_count": 1192
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "holgi/fastapi-permissions",
-    "stargazers_count": 293,
+    "stargazers_count": 294,
     "open_issues_count": 11,
     "forks_count": 33
   },
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 66710,
-    "open_issues_count": 159,
-    "forks_count": 27954
+    "stargazers_count": 66719,
+    "open_issues_count": 158,
+    "forks_count": 27958
   }
 ]
