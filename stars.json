@@ -7,15 +7,15 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 24559,
-    "open_issues_count": 764,
+    "stargazers_count": 24578,
+    "open_issues_count": 766,
     "forks_count": 4312
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 7027,
-    "open_issues_count": 52,
-    "forks_count": 1196
+    "stargazers_count": 7032,
+    "open_issues_count": 54,
+    "forks_count": 1198
   },
   {
     "full_name": "akinason/RIMSCloud",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "ComponentFactory/Krypton",
-    "stargazers_count": 1460,
+    "stargazers_count": 1463,
     "open_issues_count": 157,
-    "forks_count": 586
+    "forks_count": 585
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1298,
+    "stargazers_count": 1301,
     "open_issues_count": 107,
     "forks_count": 441
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "frictionlessdata/framework",
-    "stargazers_count": 550,
-    "open_issues_count": 110,
-    "forks_count": 123
+    "stargazers_count": 551,
+    "open_issues_count": 106,
+    "forks_count": 122
   },
   {
     "full_name": "okfn/messytables",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "vaibhavsingh97/random-word",
-    "stargazers_count": 105,
+    "stargazers_count": 107,
     "open_issues_count": 31,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "arteria/django-background-tasks",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "sequelize/cli",
-    "stargazers_count": 2367,
-    "open_issues_count": 94,
+    "stargazers_count": 2369,
+    "open_issues_count": 92,
     "forks_count": 521
   },
   {
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 66954,
-    "open_issues_count": 181,
-    "forks_count": 28064
+    "stargazers_count": 66999,
+    "open_issues_count": 174,
+    "forks_count": 28082
   }
 ]
