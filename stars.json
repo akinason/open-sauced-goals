@@ -7,15 +7,15 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 24649,
-    "open_issues_count": 754,
+    "stargazers_count": 24670,
+    "open_issues_count": 756,
     "forks_count": 4326
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 7116,
-    "open_issues_count": 55,
-    "forks_count": 1196
+    "stargazers_count": 7137,
+    "open_issues_count": 54,
+    "forks_count": 1198
   },
   {
     "full_name": "akinason/RIMSCloud",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "ComponentFactory/Krypton",
-    "stargazers_count": 1475,
+    "stargazers_count": 1481,
     "open_issues_count": 158,
-    "forks_count": 592
+    "forks_count": 594
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1309,
-    "open_issues_count": 108,
-    "forks_count": 440
+    "stargazers_count": 1313,
+    "open_issues_count": 109,
+    "forks_count": 441
   },
   {
     "full_name": "gearman/gearmand",
-    "stargazers_count": 669,
-    "open_issues_count": 89,
+    "stargazers_count": 668,
+    "open_issues_count": 87,
     "forks_count": 136
   },
   {
     "full_name": "frictionlessdata/framework",
-    "stargazers_count": 559,
-    "open_issues_count": 115,
-    "forks_count": 123
+    "stargazers_count": 561,
+    "open_issues_count": 120,
+    "forks_count": 124
   },
   {
     "full_name": "okfn/messytables",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "holgi/fastapi-permissions",
-    "stargazers_count": 308,
+    "stargazers_count": 309,
     "open_issues_count": 12,
     "forks_count": 34
   },
@@ -73,20 +73,20 @@
   },
   {
     "full_name": "sequelize/cli",
-    "stargazers_count": 2376,
-    "open_issues_count": 93,
-    "forks_count": 523
+    "stargazers_count": 2381,
+    "open_issues_count": 94,
+    "forks_count": 524
   },
   {
     "full_name": "django-mptt/django-mptt",
-    "stargazers_count": 2690,
+    "stargazers_count": 2695,
     "open_issues_count": 118,
     "forks_count": 450
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 67338,
-    "open_issues_count": 178,
-    "forks_count": 28214
+    "stargazers_count": 67377,
+    "open_issues_count": 177,
+    "forks_count": 28234
   }
 ]
