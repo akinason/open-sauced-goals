@@ -1,27 +1,27 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 62487,
-    "open_issues_count": 6,
-    "forks_count": 15550
+    "stargazers_count": 62529,
+    "open_issues_count": 9,
+    "forks_count": 15560
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
     "stargazers_count": 126,
     "open_issues_count": 6,
-    "forks_count": 21
+    "forks_count": 20
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 25093,
+    "stargazers_count": 25100,
     "open_issues_count": 716,
-    "forks_count": 4372
+    "forks_count": 4374
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 7634,
-    "open_issues_count": 28,
-    "forks_count": 1230
+    "stargazers_count": 7650,
+    "open_issues_count": 29,
+    "forks_count": 1232
   },
   {
     "full_name": "akinason/RIMSCloud",
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "ComponentFactory/Krypton",
-    "stargazers_count": 1556,
-    "open_issues_count": 161,
-    "forks_count": 609
+    "stargazers_count": 1558,
+    "open_issues_count": 162,
+    "forks_count": 610
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1416,
+    "stargazers_count": 1418,
     "open_issues_count": 113,
     "forks_count": 483
   },
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "frictionlessdata/framework",
-    "stargazers_count": 590,
-    "open_issues_count": 124,
+    "stargazers_count": 591,
+    "open_issues_count": 125,
     "forks_count": 129
   },
   {
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "arteria/django-background-tasks",
-    "stargazers_count": 556,
+    "stargazers_count": 557,
     "open_issues_count": 87,
     "forks_count": 125
   },
   {
     "full_name": "sequelize/cli",
-    "stargazers_count": 2423,
+    "stargazers_count": 2426,
     "open_issues_count": 104,
     "forks_count": 530
   },
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 69708,
-    "open_issues_count": 147,
-    "forks_count": 28984
+    "stargazers_count": 69789,
+    "open_issues_count": 150,
+    "forks_count": 29009
   }
 ]
