@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 66037,
+    "stargazers_count": 66078,
     "open_issues_count": 8,
-    "forks_count": 15875
+    "forks_count": 15879
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 25767,
-    "open_issues_count": 733,
-    "forks_count": 4387
+    "stargazers_count": 25775,
+    "open_issues_count": 734,
+    "forks_count": 4388
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 8880,
-    "open_issues_count": 43,
-    "forks_count": 1309
+    "stargazers_count": 8912,
+    "open_issues_count": 45,
+    "forks_count": 1313
   },
   {
     "full_name": "akinason/RIMSCloud",
@@ -37,37 +37,37 @@
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1626,
+    "stargazers_count": 1633,
     "open_issues_count": 121,
-    "forks_count": 541
+    "forks_count": 542
   },
   {
     "full_name": "gearman/gearmand",
-    "stargazers_count": 721,
+    "stargazers_count": 722,
     "open_issues_count": 88,
     "forks_count": 138
   },
   {
     "full_name": "frictionlessdata/frictionless-py",
-    "stargazers_count": 667,
-    "open_issues_count": 169,
+    "stargazers_count": 669,
+    "open_issues_count": 170,
     "forks_count": 139
   },
   {
     "full_name": "okfn/messytables",
-    "stargazers_count": 390,
+    "stargazers_count": 389,
     "open_issues_count": 41,
     "forks_count": 109
   },
   {
     "full_name": "holgi/fastapi-permissions",
-    "stargazers_count": 436,
+    "stargazers_count": 438,
     "open_issues_count": 18,
     "forks_count": 45
   },
   {
     "full_name": "vaibhavsingh97/random-word",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 33,
     "forks_count": 24
   },
@@ -79,20 +79,20 @@
   },
   {
     "full_name": "sequelize/cli",
-    "stargazers_count": 2501,
+    "stargazers_count": 2502,
     "open_issues_count": 125,
-    "forks_count": 532
+    "forks_count": 530
   },
   {
     "full_name": "django-mptt/django-mptt",
-    "stargazers_count": 2820,
+    "stargazers_count": 2821,
     "open_issues_count": 117,
     "forks_count": 457
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 76211,
-    "open_issues_count": 157,
-    "forks_count": 30561
+    "stargazers_count": 76286,
+    "open_issues_count": 161,
+    "forks_count": 30585
   }
 ]
