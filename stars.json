@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 66298,
+    "stargazers_count": 66341,
     "open_issues_count": 4,
-    "forks_count": 15918
+    "forks_count": 15923
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 25835,
-    "open_issues_count": 745,
-    "forks_count": 4392
+    "stargazers_count": 25849,
+    "open_issues_count": 747,
+    "forks_count": 4393
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 9027,
+    "stargazers_count": 9033,
     "open_issues_count": 47,
     "forks_count": 1328
   },
@@ -32,26 +32,26 @@
   {
     "full_name": "ComponentFactory/Krypton",
     "stargazers_count": 1824,
-    "open_issues_count": 170,
+    "open_issues_count": 171,
     "forks_count": 679
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1642,
+    "stargazers_count": 1643,
     "open_issues_count": 122,
     "forks_count": 543
   },
   {
     "full_name": "gearman/gearmand",
-    "stargazers_count": 723,
+    "stargazers_count": 722,
     "open_issues_count": 87,
     "forks_count": 138
   },
   {
     "full_name": "frictionlessdata/frictionless-py",
-    "stargazers_count": 676,
+    "stargazers_count": 677,
     "open_issues_count": 175,
-    "forks_count": 139
+    "forks_count": 140
   },
   {
     "full_name": "okfn/messytables",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "arteria/django-background-tasks",
-    "stargazers_count": 585,
+    "stargazers_count": 586,
     "open_issues_count": 90,
     "forks_count": 133
   },
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "django-mptt/django-mptt",
-    "stargazers_count": 2829,
+    "stargazers_count": 2830,
     "open_issues_count": 117,
-    "forks_count": 457
+    "forks_count": 458
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 76666,
+    "stargazers_count": 76722,
     "open_issues_count": 180,
-    "forks_count": 30733
+    "forks_count": 30764
   }
 ]
