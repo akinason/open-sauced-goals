@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 67263,
-    "open_issues_count": 9,
-    "forks_count": 16139
+    "stargazers_count": 67288,
+    "open_issues_count": 10,
+    "forks_count": 16136
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 26088,
-    "open_issues_count": 735,
-    "forks_count": 4420
+    "stargazers_count": 26087,
+    "open_issues_count": 736,
+    "forks_count": 4423
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 9515,
+    "stargazers_count": 9533,
     "open_issues_count": 54,
-    "forks_count": 1365
+    "forks_count": 1366
   },
   {
     "full_name": "akinason/RIMSCloud",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "ComponentFactory/Krypton",
-    "stargazers_count": 1868,
+    "stargazers_count": 1869,
     "open_issues_count": 173,
     "forks_count": 684
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1735,
+    "stargazers_count": 1737,
     "open_issues_count": 125,
-    "forks_count": 563
+    "forks_count": 564
   },
   {
     "full_name": "gearman/gearmand",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "frictionlessdata/frictionless-py",
-    "stargazers_count": 691,
+    "stargazers_count": 692,
     "open_issues_count": 186,
     "forks_count": 143
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "holgi/fastapi-permissions",
-    "stargazers_count": 464,
+    "stargazers_count": 466,
     "open_issues_count": 18,
     "forks_count": 46
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "sequelize/cli",
-    "stargazers_count": 2520,
+    "stargazers_count": 2521,
     "open_issues_count": 134,
     "forks_count": 528
   },
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 78401,
-    "open_issues_count": 232,
-    "forks_count": 31347
+    "stargazers_count": 78456,
+    "open_issues_count": 233,
+    "forks_count": 31352
   }
 ]
