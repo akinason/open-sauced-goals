@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 67340,
-    "open_issues_count": 10,
-    "forks_count": 16138
+    "stargazers_count": 67353,
+    "open_issues_count": 11,
+    "forks_count": 16139
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 26118,
-    "open_issues_count": 734,
-    "forks_count": 4427
+    "stargazers_count": 26127,
+    "open_issues_count": 736,
+    "forks_count": 4428
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 9551,
-    "open_issues_count": 55,
-    "forks_count": 1368
+    "stargazers_count": 9561,
+    "open_issues_count": 56,
+    "forks_count": 1367
   },
   {
     "full_name": "akinason/RIMSCloud",
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1739,
+    "stargazers_count": 1742,
     "open_issues_count": 125,
-    "forks_count": 565
+    "forks_count": 566
   },
   {
     "full_name": "gearman/gearmand",
-    "stargazers_count": 731,
+    "stargazers_count": 732,
     "open_issues_count": 93,
     "forks_count": 138
   },
   {
     "full_name": "frictionlessdata/frictionless-py",
-    "stargazers_count": 692,
+    "stargazers_count": 695,
     "open_issues_count": 187,
     "forks_count": 144
   },
@@ -74,13 +74,13 @@
   {
     "full_name": "django-background-tasks/django-background-tasks",
     "stargazers_count": 600,
-    "open_issues_count": 89,
-    "forks_count": 142
+    "open_issues_count": 90,
+    "forks_count": 143
   },
   {
     "full_name": "sequelize/cli",
-    "stargazers_count": 2524,
-    "open_issues_count": 134,
+    "stargazers_count": 2525,
+    "open_issues_count": 135,
     "forks_count": 528
   },
   {
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 78550,
-    "open_issues_count": 245,
-    "forks_count": 31385
+    "stargazers_count": 78578,
+    "open_issues_count": 246,
+    "forks_count": 31392
   }
 ]
