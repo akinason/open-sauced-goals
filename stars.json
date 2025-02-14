@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 68757,
+    "stargazers_count": 68797,
     "open_issues_count": 9,
-    "forks_count": 16283
+    "forks_count": 16287
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 26477,
-    "open_issues_count": 765,
+    "stargazers_count": 26478,
+    "open_issues_count": 755,
     "forks_count": 4445
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 10421,
-    "open_issues_count": 76,
+    "stargazers_count": 10439,
+    "open_issues_count": 75,
     "forks_count": 1445
   },
   {
@@ -31,27 +31,27 @@
   },
   {
     "full_name": "ComponentFactory/Krypton",
-    "stargazers_count": 1940,
+    "stargazers_count": 1939,
     "open_issues_count": 174,
     "forks_count": 692
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1870,
+    "stargazers_count": 1875,
     "open_issues_count": 129,
-    "forks_count": 590
+    "forks_count": 593
   },
   {
     "full_name": "gearman/gearmand",
     "stargazers_count": 742,
     "open_issues_count": 92,
-    "forks_count": 138
+    "forks_count": 139
   },
   {
     "full_name": "frictionlessdata/frictionless-py",
     "stargazers_count": 735,
     "open_issues_count": 211,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "okfn/messytables",
@@ -79,20 +79,20 @@
   },
   {
     "full_name": "sequelize/cli",
-    "stargazers_count": 2544,
+    "stargazers_count": 2545,
     "open_issues_count": 145,
-    "forks_count": 528
+    "forks_count": 529
   },
   {
     "full_name": "django-mptt/django-mptt",
-    "stargazers_count": 2894,
+    "stargazers_count": 2895,
     "open_issues_count": 117,
     "forks_count": 469
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 82234,
-    "open_issues_count": 304,
-    "forks_count": 32220
+    "stargazers_count": 82288,
+    "open_issues_count": 302,
+    "forks_count": 32238
   }
 ]
