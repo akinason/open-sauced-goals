@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 68856,
+    "stargazers_count": 68888,
     "open_issues_count": 9,
-    "forks_count": 16291
+    "forks_count": 16299
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 26490,
-    "open_issues_count": 754,
-    "forks_count": 4449
+    "stargazers_count": 26500,
+    "open_issues_count": 755,
+    "forks_count": 4450
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 10475,
-    "open_issues_count": 76,
-    "forks_count": 1445
+    "stargazers_count": 10492,
+    "open_issues_count": 77,
+    "forks_count": 1444
   },
   {
     "full_name": "akinason/RIMSCloud",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "ComponentFactory/Krypton",
-    "stargazers_count": 1945,
+    "stargazers_count": 1947,
     "open_issues_count": 174,
-    "forks_count": 694
+    "forks_count": 695
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1884,
+    "stargazers_count": 1887,
     "open_issues_count": 129,
-    "forks_count": 595
+    "forks_count": 596
   },
   {
     "full_name": "gearman/gearmand",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "frictionlessdata/frictionless-py",
-    "stargazers_count": 736,
+    "stargazers_count": 737,
     "open_issues_count": 212,
     "forks_count": 152
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "holgi/fastapi-permissions",
-    "stargazers_count": 509,
+    "stargazers_count": 511,
     "open_issues_count": 18,
     "forks_count": 48
   },
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "django-mptt/django-mptt",
-    "stargazers_count": 2897,
+    "stargazers_count": 2900,
     "open_issues_count": 117,
     "forks_count": 471
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 82401,
-    "open_issues_count": 300,
-    "forks_count": 32271
+    "stargazers_count": 82471,
+    "open_issues_count": 299,
+    "forks_count": 32289
   }
 ]
