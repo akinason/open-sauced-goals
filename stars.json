@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 69952,
-    "open_issues_count": 11,
-    "forks_count": 16499
+    "stargazers_count": 69976,
+    "open_issues_count": 14,
+    "forks_count": 16507
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 26768,
-    "open_issues_count": 707,
-    "forks_count": 4442
+    "stargazers_count": 26770,
+    "open_issues_count": 708,
+    "forks_count": 4445
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 11060,
-    "open_issues_count": 98,
+    "stargazers_count": 11073,
+    "open_issues_count": 100,
     "forks_count": 1524
   },
   {
@@ -31,26 +31,26 @@
   },
   {
     "full_name": "ComponentFactory/Krypton",
-    "stargazers_count": 1996,
+    "stargazers_count": 1998,
     "open_issues_count": 178,
-    "forks_count": 711
+    "forks_count": 712
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1981,
-    "open_issues_count": 129,
+    "stargazers_count": 1983,
+    "open_issues_count": 130,
     "forks_count": 611
   },
   {
     "full_name": "gearman/gearmand",
-    "stargazers_count": 750,
+    "stargazers_count": 751,
     "open_issues_count": 92,
     "forks_count": 140
   },
   {
     "full_name": "frictionlessdata/frictionless-py",
-    "stargazers_count": 762,
-    "open_issues_count": 217,
+    "stargazers_count": 763,
+    "open_issues_count": 218,
     "forks_count": 154
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "holgi/fastapi-permissions",
-    "stargazers_count": 542,
+    "stargazers_count": 545,
     "open_issues_count": 18,
     "forks_count": 47
   },
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 84216,
-    "open_issues_count": 359,
-    "forks_count": 32723
+    "stargazers_count": 84252,
+    "open_issues_count": 357,
+    "forks_count": 32721
   }
 ]
