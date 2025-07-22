@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 69976,
+    "stargazers_count": 70008,
     "open_issues_count": 14,
-    "forks_count": 16507
+    "forks_count": 16504
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 26770,
-    "open_issues_count": 708,
+    "stargazers_count": 26776,
+    "open_issues_count": 707,
     "forks_count": 4445
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 11073,
+    "stargazers_count": 11084,
     "open_issues_count": 100,
-    "forks_count": 1524
+    "forks_count": 1527
   },
   {
     "full_name": "akinason/RIMSCloud",
@@ -31,25 +31,25 @@
   },
   {
     "full_name": "ComponentFactory/Krypton",
-    "stargazers_count": 1998,
+    "stargazers_count": 1999,
     "open_issues_count": 178,
-    "forks_count": 712
+    "forks_count": 711
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 1983,
+    "stargazers_count": 1985,
     "open_issues_count": 130,
-    "forks_count": 611
+    "forks_count": 613
   },
   {
     "full_name": "gearman/gearmand",
     "stargazers_count": 751,
-    "open_issues_count": 92,
-    "forks_count": 140
+    "open_issues_count": 93,
+    "forks_count": 141
   },
   {
     "full_name": "frictionlessdata/frictionless-py",
-    "stargazers_count": 763,
+    "stargazers_count": 764,
     "open_issues_count": 218,
     "forks_count": 154
   },
@@ -80,19 +80,19 @@
   {
     "full_name": "sequelize/cli",
     "stargazers_count": 2560,
-    "open_issues_count": 146,
-    "forks_count": 530
+    "open_issues_count": 147,
+    "forks_count": 531
   },
   {
     "full_name": "django-mptt/django-mptt",
-    "stargazers_count": 2936,
+    "stargazers_count": 2938,
     "open_issues_count": 117,
     "forks_count": 470
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 84252,
-    "open_issues_count": 357,
-    "forks_count": 32721
+    "stargazers_count": 84305,
+    "open_issues_count": 359,
+    "forks_count": 32731
   }
 ]
