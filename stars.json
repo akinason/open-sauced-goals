@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 70689,
+    "stargazers_count": 70700,
     "open_issues_count": 17,
-    "forks_count": 16600
+    "forks_count": 16606
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 27064,
-    "open_issues_count": 723,
-    "forks_count": 4454
+    "stargazers_count": 27075,
+    "open_issues_count": 724,
+    "forks_count": 4452
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 11459,
+    "stargazers_count": 11468,
     "open_issues_count": 106,
-    "forks_count": 1565
+    "forks_count": 1564
   },
   {
     "full_name": "akinason/RIMSCloud",
@@ -31,20 +31,20 @@
   },
   {
     "full_name": "ComponentFactory/Krypton",
-    "stargazers_count": 2019,
+    "stargazers_count": 2021,
     "open_issues_count": 180,
     "forks_count": 711
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 2044,
+    "stargazers_count": 2046,
     "open_issues_count": 132,
     "forks_count": 624
   },
   {
     "full_name": "gearman/gearmand",
     "stargazers_count": 753,
-    "open_issues_count": 90,
+    "open_issues_count": 91,
     "forks_count": 158
   },
   {
@@ -57,11 +57,11 @@
     "full_name": "okfn/messytables",
     "stargazers_count": 390,
     "open_issues_count": 41,
-    "forks_count": 111
+    "forks_count": 112
   },
   {
     "full_name": "holgi/fastapi-permissions",
-    "stargazers_count": 555,
+    "stargazers_count": 556,
     "open_issues_count": 18,
     "forks_count": 49
   },
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "django-mptt/django-mptt",
-    "stargazers_count": 2959,
+    "stargazers_count": 2958,
     "open_issues_count": 117,
     "forks_count": 469
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 85603,
-    "open_issues_count": 349,
-    "forks_count": 33179
+    "stargazers_count": 85639,
+    "open_issues_count": 357,
+    "forks_count": 33189
   }
 ]
