@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 70776,
-    "open_issues_count": 15,
-    "forks_count": 16620
+    "stargazers_count": 70789,
+    "open_issues_count": 12,
+    "forks_count": 16626
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 27091,
+    "stargazers_count": 27100,
     "open_issues_count": 727,
     "forks_count": 4453
   },
   {
     "full_name": "LonamiWebs/Telethon",
-    "stargazers_count": 11491,
-    "open_issues_count": 105,
-    "forks_count": 1573
+    "stargazers_count": 11504,
+    "open_issues_count": 106,
+    "forks_count": 1575
   },
   {
     "full_name": "akinason/RIMSCloud",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "ComponentFactory/Krypton",
-    "stargazers_count": 2025,
+    "stargazers_count": 2027,
     "open_issues_count": 180,
     "forks_count": 711
   },
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "frictionlessdata/frictionless-py",
-    "stargazers_count": 790,
+    "stargazers_count": 791,
     "open_issues_count": 224,
     "forks_count": 154
   },
   {
     "full_name": "okfn/messytables",
     "stargazers_count": 390,
-    "open_issues_count": 41,
+    "open_issues_count": 37,
     "forks_count": 112
   },
   {
@@ -80,19 +80,19 @@
   {
     "full_name": "sequelize/cli",
     "stargazers_count": 2561,
-    "open_issues_count": 152,
+    "open_issues_count": 153,
     "forks_count": 529
   },
   {
     "full_name": "django-mptt/django-mptt",
-    "stargazers_count": 2959,
+    "stargazers_count": 2960,
     "open_issues_count": 117,
-    "forks_count": 469
+    "forks_count": 468
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 85780,
-    "open_issues_count": 356,
-    "forks_count": 33224
+    "stargazers_count": 85815,
+    "open_issues_count": 360,
+    "forks_count": 33233
   }
 ]
