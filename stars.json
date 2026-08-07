@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pallets/flask",
-    "stargazers_count": 72094,
+    "stargazers_count": 72166,
     "open_issues_count": 7,
-    "forks_count": 16924
+    "forks_count": 16928
   },
   {
     "full_name": "GeekyAnts/react-pluggable",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "hashicorp/vagrant",
-    "stargazers_count": 27198,
+    "stargazers_count": 27199,
     "open_issues_count": 753,
-    "forks_count": 4402
+    "forks_count": 4401
   },
   {
     "full_name": "LonamiWebs/Telethon",
@@ -33,25 +33,25 @@
     "full_name": "ComponentFactory/Krypton",
     "stargazers_count": 2082,
     "open_issues_count": 179,
-    "forks_count": 718
+    "forks_count": 717
   },
   {
     "full_name": "VBA-tools/VBA-JSON",
-    "stargazers_count": 2126,
+    "stargazers_count": 2129,
     "open_issues_count": 138,
-    "forks_count": 625
+    "forks_count": 624
   },
   {
     "full_name": "gearman/gearmand",
     "stargazers_count": 762,
-    "open_issues_count": 65,
+    "open_issues_count": 64,
     "forks_count": 160
   },
   {
     "full_name": "frictionlessdata/frictionless-py",
-    "stargazers_count": 835,
+    "stargazers_count": 836,
     "open_issues_count": 237,
-    "forks_count": 171
+    "forks_count": 170
   },
   {
     "full_name": "okfn/messytables",
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "holgi/fastapi-permissions",
-    "stargazers_count": 654,
+    "stargazers_count": 653,
     "open_issues_count": 17,
     "forks_count": 49
   },
   {
     "full_name": "vaibhavsingh97/random-word",
-    "stargazers_count": 127,
+    "stargazers_count": 128,
     "open_issues_count": 32,
     "forks_count": 23
   },
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "django-mptt/django-mptt",
-    "stargazers_count": 2973,
+    "stargazers_count": 2972,
     "open_issues_count": 3,
-    "forks_count": 462
+    "forks_count": 463
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 88325,
-    "open_issues_count": 444,
-    "forks_count": 34093
+    "stargazers_count": 88395,
+    "open_issues_count": 446,
+    "forks_count": 34118
   }
 ]
